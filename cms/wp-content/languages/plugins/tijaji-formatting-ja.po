@@ -1,0 +1,175 @@
+# Translation of Plugins - TIJAJI  formatting - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - TIJAJI  formatting - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-21 10:15:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - TIJAJI  formatting - Development (trunk)\n"
+
+#: tjf_setting.php:65 tjf_setting.php:119 tjf_setting.php:137
+msgid "No"
+msgstr "いいえ"
+
+#: tjf_setting.php:64
+msgid "page only"
+msgstr "固定ページのみ"
+
+#: tjf_setting.php:118 tjf_setting.php:136
+msgid "Yes"
+msgstr "はい"
+
+#: tjf_setting.php:59 tjf_setting.php:115 tjf_setting.php:133
+msgid "&lt;br /&gt; Line breaks are not reflected unless autoformatting is stopped."
+msgstr "改行に&lt;br /&gt;を自動挿入するのは自動整形を停止しないと反映されません。"
+
+#: tjf_setting.php:58
+msgid "Would you like to convert line breaks to &lt;br /&gt; automatically with a singular ?"
+msgstr "記事の改行に&lt;br /&gt;を自動的に挿入しますか？"
+
+#: tjf_setting.php:39
+msgid "Here you can stop the article symbols from being converted automatically."
+msgstr "ここで記事の記号が自動的に変換されるのを停止できます。"
+
+#: tjf_setting.php:38
+msgid "How do you do WordPress default article symbol auto-conversion function ?"
+msgstr "WordPressのデフォルトの記事の記号自動変換機能をどうしますか？"
+
+#: tjf_setting.php:25 tjf_setting.php:45 tjf_setting.php:83 tjf_setting.php:101
+msgid "Enable"
+msgstr "有効"
+
+#: tjf_setting.php:24 tjf_setting.php:44
+msgid "Stop at page"
+msgstr "固定ページで停止"
+
+#: tjf_setting.php:22 tjf_setting.php:42 tjf_setting.php:82 tjf_setting.php:100
+msgid "Complete stop"
+msgstr "完全停止"
+
+#: tjf_setting.php:18
+msgid "How do you do automatic formatting of WordPress default articles ?"
+msgstr "WordPressデフォルトの記事の自動整形をどうしますか？"
+
+#: tjf_meta.php:41
+msgid "Disabled"
+msgstr "無効"
+
+#: tjf_meta.php:29
+msgid "Automatic symbol conversion stop"
+msgstr "記号変換停止"
+
+#: tjf_meta.php:28
+msgid "Automatic shaping stop"
+msgstr "自動整形停止"
+
+#: tjf_meta.php:20 tjf_meta.php:21 tjf_meta.php:22 tjf_meta.php:41
+#: tjf_meta.php:78
+msgid "No individual setting"
+msgstr "個別設定しない"
+
+#: tjf_admin.php:36
+msgid "If you disable it individually, it can be set from the posting meta box."
+msgstr "それを個別に無効にしたい場合は、記事編集画面のメタボックスから設定できます。"
+
+#: tjf_admin.php:35
+msgid "Customizer settings apply to all articles and pages."
+msgstr "カスタマイザーからの設定は全ての記事や固定ページに適用されます。"
+
+#: tjf_admin.php:32
+msgid "individual setting"
+msgstr "個別設定"
+
+#: tjf_admin.php:25
+msgid "Go to Customizer"
+msgstr "カスタマイザーへ"
+
+#: tjf_admin.php:23
+msgid "Let's play with theme customizer immediately !"
+msgstr "早速テーマカスタマイザーを使ってみよう！"
+
+#: tjf_admin.php:22
+msgid "Set from theme customizer"
+msgstr "カスタマイザーから設定します。"
+
+#: tjf_admin.php:20
+msgid "Getting started"
+msgstr "はじめる"
+
+#: tjf_setting.php:79
+msgid "You can stop inserting and deleting &lt;p&gt; tags and / or &lt;br&gt; tags automatically in text widjet here."
+msgstr "ここでテキストウィジェットに&lt;p&gt;タグや&lt;br&gt;タグが自動的に挿入・削除されるのを停止できます。"
+
+#: tjf_setting.php:96
+msgid "How do you do WordPress default text widjet symbol auto-conversion function ?"
+msgstr "WordPressのデフォルトのテキストウィジェットの記号自動変換機能をどうしますか？"
+
+#: tjf_setting.php:97
+msgid "Here you can stop the text widjet symbols from being converted automatically."
+msgstr "ここでテキストウィジェットの記号が自動的に変換されるのを停止できます。"
+
+#: tjf_setting.php:132
+msgid "Would you like to convert line breaks to &lt;br /&gt; automatically with a HTML Code Widget ?"
+msgstr "カスタムHTMLウィジェットで改行に&lt;br /&gt;を自動的に挿入しますか？"
+
+#. Author URI of the plugin/theme
+msgid "https://tijaji.jp"
+msgstr "https://tijaji.jp"
+
+#. Author of the plugin/theme
+msgid "TIJAJI"
+msgstr "TIJAJI"
+
+#. Plugin URI of the plugin/theme
+msgid "https://product.tijaji.jp/tijaji-formatting/"
+msgstr "https://product.tijaji.jp/tijaji-formatting/"
+
+#. #-#-#-#-#  tijaji-formatting-code.pot (TIJAJI formatting 1.10)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: tjf_admin.php:5 tjf_setting.php:6
+msgid "TIJAJI formatting"
+msgstr "TIJAJI formatting"
+
+#: tjf_setting.php:78
+msgid "How do you do automatic formatting of WordPress default text widjet ?"
+msgstr "WordPress デフォルトのテキストウィジェットをどう自動整形しますか ?"
+
+#: tjf_setting.php:62
+msgid "Post and Page"
+msgstr "個別投稿ページと固定ページ"
+
+#: tjf_meta.php:58 tjf_meta.php:59
+msgid "[TJF] Individual disable setting"
+msgstr "[TJF] 個別無効化設定"
+
+#. Description of the plugin/theme
+msgid "Automatic formatting is stopped and the <br> tag is automatically added to the line feed.自動整形を停止し、改行に<br>タグを自動追加します。"
+msgstr "自動整形を停止し、改行に <br> タグを自動追加します。"
+
+#: tjf_meta.php:30
+msgid "Automatically with line break &lt;br /&gt;"
+msgstr "改行に自動で &lt;br /&gt; を挿入"
+
+#: tjf_setting.php:114
+msgid "Would you like to convert line breaks to &lt;br /&gt; automatically with a text widget ?"
+msgstr "テキストウィジェットで改行に&lt;br /&gt;を自動挿入しますか ?"
+
+#: tjf_admin.php:34
+msgid "Individual setting is possible"
+msgstr "個別設定が可能です"
+
+#: tjf_setting.php:19
+msgid "You can stop inserting and deleting &lt;p&gt; tags and / or &lt;br&gt; tags automatically in articles here."
+msgstr "ここで記事に&lt;p&gt;タグや&lt;br /&gt;タグが自動的に挿入・削除されるのを停止できます。"
+
+#: tjf_setting.php:63
+msgid "Post only"
+msgstr "個別投稿ページのみ"
+
+#: tjf_setting.php:23 tjf_setting.php:43
+msgid "Stop at single"
+msgstr "個別投稿ページで停止"

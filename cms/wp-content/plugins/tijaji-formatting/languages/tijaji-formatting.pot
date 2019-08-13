@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TIAJI formatting v1\n"
+"POT-Creation-Date: 2018-05-21 18:39+0900\n"
+"PO-Revision-Date: 2018-05-18 00:26+0900\n"
+"Last-Translator: \n"
+"Language-Team: TIJAJI WP Service\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tjf_admin.php:5 tjf_setting.php:6
+msgid "TIJAJI formatting"
+msgstr ""
+
+#: tjf_admin.php:20
+msgid "Getting started"
+msgstr ""
+
+#: tjf_admin.php:22
+msgid "Set from theme customizer"
+msgstr ""
+
+#: tjf_admin.php:23
+msgid "Let's play with theme customizer immediately !"
+msgstr ""
+
+#: tjf_admin.php:25
+msgid "Go to Customizer"
+msgstr ""
+
+#: tjf_admin.php:32
+msgid "individual setting"
+msgstr ""
+
+#: tjf_admin.php:34
+msgid "Individual setting is possible"
+msgstr ""
+
+#: tjf_admin.php:35
+msgid "Customizer settings apply to all articles and pages."
+msgstr ""
+
+#: tjf_admin.php:36
+msgid ""
+"If you disable it individually, it can be set from the posting meta box."
+msgstr ""
+
+#: tjf_meta.php:20 tjf_meta.php:21 tjf_meta.php:22 tjf_meta.php:41
+#: tjf_meta.php:78
+msgid "No individual setting"
+msgstr ""
+
+#: tjf_meta.php:28
+msgid "Automatic shaping stop"
+msgstr ""
+
+#: tjf_meta.php:29
+msgid "Automatic symbol conversion stop"
+msgstr ""
+
+#: tjf_meta.php:30
+msgid "Automatically with line break &lt;br /&gt;"
+msgstr ""
+
+#: tjf_meta.php:41
+msgid "Disabled"
+msgstr ""
+
+#: tjf_meta.php:58 tjf_meta.php:59
+msgid "[TJF] Individual disable setting"
+msgstr ""
+
+#: tjf_setting.php:18
+msgid "How do you do automatic formatting of WordPress default articles ?"
+msgstr ""
+
+#: tjf_setting.php:19
+msgid ""
+"You can stop inserting and deleting &lt;p&gt; tags and / or &lt;br&gt; tags "
+"automatically in articles here."
+msgstr ""
+
+#: tjf_setting.php:22 tjf_setting.php:42 tjf_setting.php:82 tjf_setting.php:100
+msgid "Complete stop"
+msgstr ""
+
+#: tjf_setting.php:23 tjf_setting.php:43
+msgid "Stop at single"
+msgstr ""
+
+#: tjf_setting.php:24 tjf_setting.php:44
+msgid "Stop at page"
+msgstr ""
+
+#: tjf_setting.php:25 tjf_setting.php:45 tjf_setting.php:83 tjf_setting.php:101
+msgid "Enable"
+msgstr ""
+
+#: tjf_setting.php:38
+msgid ""
+"How do you do WordPress default article symbol auto-conversion function ?"
+msgstr ""
+
+#: tjf_setting.php:39
+msgid ""
+"Here you can stop the article symbols from being converted automatically."
+msgstr ""
+
+#: tjf_setting.php:58
+msgid ""
+"Would you like to convert line breaks to &lt;br /&gt; automatically with a "
+"singular ?"
+msgstr ""
+
+#: tjf_setting.php:59 tjf_setting.php:115 tjf_setting.php:133
+msgid ""
+"&lt;br /&gt; Line breaks are not reflected unless autoformatting is stopped."
+msgstr ""
+
+#: tjf_setting.php:62
+msgid "Post and Page"
+msgstr ""
+
+#: tjf_setting.php:63
+msgid "Post only"
+msgstr ""
+
+#: tjf_setting.php:64
+msgid "page only"
+msgstr ""
+
+#: tjf_setting.php:65 tjf_setting.php:119 tjf_setting.php:137
+msgid "No"
+msgstr ""
+
+#: tjf_setting.php:78
+msgid "How do you do automatic formatting of WordPress default text widjet ?"
+msgstr ""
+
+#: tjf_setting.php:79
+msgid ""
+"You can stop inserting and deleting &lt;p&gt; tags and / or &lt;br&gt; tags "
+"automatically in text widjet here."
+msgstr ""
+
+#: tjf_setting.php:96
+msgid ""
+"How do you do WordPress default text widjet symbol auto-conversion function ?"
+msgstr ""
+
+#: tjf_setting.php:97
+msgid ""
+"Here you can stop the text widjet symbols from being converted automatically."
+msgstr ""
+
+#: tjf_setting.php:114
+msgid ""
+"Would you like to convert line breaks to &lt;br /&gt; automatically with a "
+"text widget ?"
+msgstr ""
+
+#: tjf_setting.php:118 tjf_setting.php:136
+msgid "Yes"
+msgstr ""
+
+#: tjf_setting.php:132
+msgid ""
+"Would you like to convert line breaks to &lt;br /&gt; automatically with a "
+"HTML Code Widget ?"
+msgstr ""
