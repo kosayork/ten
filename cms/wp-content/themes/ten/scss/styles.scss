@@ -53,6 +53,7 @@ img {
   height: 100vh;
   padding: 0;
   margin: 0;
+  opacity: 0;
   -webkit-transition-property: all;
   transition-property: all;
   -webkit-transition-delay: 0.3s;
@@ -992,6 +993,7 @@ header {
     @include mq {
       width: 1200px;
       display: flex;
+      flex-wrap: wrap;
       justify-content: center;
       padding: 0 0 150px;
     }
@@ -1025,7 +1027,7 @@ header {
     box-sizing: border-box;
     @include mq {
       width: 400px;
-      padding: 0 20px;
+      padding: 0 20px 60px;
     }
 
     &:last-child {

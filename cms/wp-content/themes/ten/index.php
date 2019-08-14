@@ -15,14 +15,6 @@
     </div>
 
 
-    <div class="l-wrapper">
-        <button class="p-modalBtn" @click="openItem"{ ここをクリック }></button>
-    </div>
-
-    <div class="p-modal" :class="{'is-open': isModalActive}">
-  { clickで表示したいmodal_content部分 }
-</div>
-
     <!-- イントロ-->
 
     <div id="about" class="intro">

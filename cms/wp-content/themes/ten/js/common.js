@@ -404,3 +404,7 @@ function handleComplete(evt,comp) {
 
 //smoothscroll
 var scroll = new SmoothScroll('a[href*="#"]');
+
+$(window).on('load', function() {
+  $('.contents').css('opacity','1');
+});
