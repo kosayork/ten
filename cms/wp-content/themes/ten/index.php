@@ -263,12 +263,11 @@ if (has_post_thumbnail() )  {
     </div>
 
     <!-- InstaWidget -->
-    <div class="unit-insta animate">
-      <!-- InstaWidget -->
+    <!-- <div class="unit-insta animate">
       <div>
         <script src="https://instawidget.net/js/instawidget.js?u=12e3040a8920cb0005e4a1c557ae2ab469f94c8fc1a70f1be83886380faafa4c&width=100%"></script>
       </div>
-    </div>
+    </div> -->
     <div class="unit-info animate">
       <span id="info" class="anchorlink"></span>
       <h2 class="heading__default animate">Information</h2>
